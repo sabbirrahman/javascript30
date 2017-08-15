@@ -15,4 +15,5 @@ This repo will contain all the 30 projects I'll develop to face the 30 day JavaS
 
 A link to live preview using github pages and codepen will be listed bellow.
 
-- Day 01: [CodePen](https://codepen.io/sabbirrahman/full/eEGVRj/)
+- Day 01: [CodePen](https://codepen.io/sabbirrahman/full/eEGVRj/) - DrumKit
+- Day 02: [CodePen](https://codepen.io/sabbirrahman/full/NvaZQJ/) - JS & CSS Clock
